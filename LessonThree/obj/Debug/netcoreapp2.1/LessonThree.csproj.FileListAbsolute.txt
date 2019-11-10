@@ -1,0 +1,11 @@
+C:\Projects\CSharpHomeWorks\LessonThree\bin\Debug\netcoreapp2.1\LessonThree.deps.json
+C:\Projects\CSharpHomeWorks\LessonThree\bin\Debug\netcoreapp2.1\LessonThree.runtimeconfig.json
+C:\Projects\CSharpHomeWorks\LessonThree\bin\Debug\netcoreapp2.1\LessonThree.runtimeconfig.dev.json
+C:\Projects\CSharpHomeWorks\LessonThree\bin\Debug\netcoreapp2.1\LessonThree.dll
+C:\Projects\CSharpHomeWorks\LessonThree\bin\Debug\netcoreapp2.1\LessonThree.pdb
+C:\Projects\CSharpHomeWorks\LessonThree\obj\Debug\netcoreapp2.1\LessonThree.csproj.CoreCompileInputs.cache
+C:\Projects\CSharpHomeWorks\LessonThree\obj\Debug\netcoreapp2.1\LessonThree.AssemblyInfoInputs.cache
+C:\Projects\CSharpHomeWorks\LessonThree\obj\Debug\netcoreapp2.1\LessonThree.AssemblyInfo.cs
+C:\Projects\CSharpHomeWorks\LessonThree\obj\Debug\netcoreapp2.1\LessonThree.dll
+C:\Projects\CSharpHomeWorks\LessonThree\obj\Debug\netcoreapp2.1\LessonThree.pdb
+C:\Projects\CSharpHomeWorks\LessonThree\obj\Debug\netcoreapp2.1\LessonThree.csprojAssemblyReference.cache

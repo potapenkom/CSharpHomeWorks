@@ -1,0 +1,11 @@
+C:\Projects\CSharpHomeWorks\LessonTwo\bin\Debug\netcoreapp2.1\LessonTwo.deps.json
+C:\Projects\CSharpHomeWorks\LessonTwo\bin\Debug\netcoreapp2.1\LessonTwo.runtimeconfig.json
+C:\Projects\CSharpHomeWorks\LessonTwo\bin\Debug\netcoreapp2.1\LessonTwo.runtimeconfig.dev.json
+C:\Projects\CSharpHomeWorks\LessonTwo\bin\Debug\netcoreapp2.1\LessonTwo.dll
+C:\Projects\CSharpHomeWorks\LessonTwo\bin\Debug\netcoreapp2.1\LessonTwo.pdb
+C:\Projects\CSharpHomeWorks\LessonTwo\obj\Debug\netcoreapp2.1\LessonTwo.csprojAssemblyReference.cache
+C:\Projects\CSharpHomeWorks\LessonTwo\obj\Debug\netcoreapp2.1\LessonTwo.csproj.CoreCompileInputs.cache
+C:\Projects\CSharpHomeWorks\LessonTwo\obj\Debug\netcoreapp2.1\LessonTwo.AssemblyInfoInputs.cache
+C:\Projects\CSharpHomeWorks\LessonTwo\obj\Debug\netcoreapp2.1\LessonTwo.AssemblyInfo.cs
+C:\Projects\CSharpHomeWorks\LessonTwo\obj\Debug\netcoreapp2.1\LessonTwo.dll
+C:\Projects\CSharpHomeWorks\LessonTwo\obj\Debug\netcoreapp2.1\LessonTwo.pdb
