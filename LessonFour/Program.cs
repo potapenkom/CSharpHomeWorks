@@ -4,12 +4,17 @@ namespace LessonFour
 {
     class Program
     {
-        delegate T CreateWolf<T>(T obj);
-
+        delegate T CreateWolf<T,R>( R obj);
         static void Main(string[] args)
         {
-            CreateWolf<BigBadWolf> wolf;
+            CreateWolf<BigBadWolf, string> wolf;
             wolf = name => new BigBadWolf(name);
-        }
+            wolf("Grey Wolf").GetInfo();
+            BigBadWolf newWolf = new BigBadWolf("Grey");
+            MessageSender publisher = new MessageSender();
+            WolfMessage eventDelegate = new WolfMessage(newWolf.Woof);
+            publisher.EventMessage += eventDelegate;
+            publisher.InvokeEvent();
+        } 
     }
 }

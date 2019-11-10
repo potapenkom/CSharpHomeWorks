@@ -14,12 +14,23 @@ namespace LessonFour
         }
         public void Woof()
         {
-            Console.WriteLine($"{name} has a voice");
+            Console.WriteLine("Wolf has a voice");
         }
 
         public void GetInfo()
         {
             Console.WriteLine($"Big Bad Wolf's name is: {name}");
+        }
+    }
+    public delegate void WolfMessage();
+
+    public class MessageSender
+    {
+        public event WolfMessage EventMessage;
+
+        public void InvokeEvent()
+        {
+            EventMessage?.Invoke();
         }
     }
 }
