@@ -6,16 +6,19 @@ namespace LessonThree
     {
         
         delegate void ExampleDelegate();
-        delegate BigBadWolf ShowDelegates(string name);
-        delegate void Message();    
+        delegate BigBadWolf CreateWolf(string name);
+        delegate void WoofWolf();
         static void Main(string[] args)
         {
-            ShowDelegates show = delegate (string name)
-             {
-                 var wolf = new BigBadWolf(name);
-                 return wolf;
-             };
-            show("Grey Wolf").GetInfo();
+            CreateWolf wolf = delegate (string name)
+            {
+                var newWolf = new BigBadWolf(name);
+                return newWolf;
+            };
+            wolf("Grey Wolf").GetInfo();
+            Console.WriteLine();
+            BigBadWolf myWolf = new BigBadWolf("Grey");
+            WoofWolf woof = myWolf.Woof;
             ExampleDelegate exampleHello = Greeting.Hello;
             ExampleDelegate exampleBye = Greeting.Bye;
             ExampleDelegate exampleGoodMorning = Greeting.GoodMorning;

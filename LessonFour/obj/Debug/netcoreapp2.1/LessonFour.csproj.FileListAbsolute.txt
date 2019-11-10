@@ -1,0 +1,11 @@
+C:\Projects\CSharpHomeWorks\LessonFour\bin\Debug\netcoreapp2.1\LessonFour.deps.json
+C:\Projects\CSharpHomeWorks\LessonFour\bin\Debug\netcoreapp2.1\LessonFour.runtimeconfig.json
+C:\Projects\CSharpHomeWorks\LessonFour\bin\Debug\netcoreapp2.1\LessonFour.runtimeconfig.dev.json
+C:\Projects\CSharpHomeWorks\LessonFour\bin\Debug\netcoreapp2.1\LessonFour.dll
+C:\Projects\CSharpHomeWorks\LessonFour\bin\Debug\netcoreapp2.1\LessonFour.pdb
+C:\Projects\CSharpHomeWorks\LessonFour\obj\Debug\netcoreapp2.1\LessonFour.csprojAssemblyReference.cache
+C:\Projects\CSharpHomeWorks\LessonFour\obj\Debug\netcoreapp2.1\LessonFour.csproj.CoreCompileInputs.cache
+C:\Projects\CSharpHomeWorks\LessonFour\obj\Debug\netcoreapp2.1\LessonFour.AssemblyInfoInputs.cache
+C:\Projects\CSharpHomeWorks\LessonFour\obj\Debug\netcoreapp2.1\LessonFour.AssemblyInfo.cs
+C:\Projects\CSharpHomeWorks\LessonFour\obj\Debug\netcoreapp2.1\LessonFour.dll
+C:\Projects\CSharpHomeWorks\LessonFour\obj\Debug\netcoreapp2.1\LessonFour.pdb

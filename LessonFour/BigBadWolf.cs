@@ -2,11 +2,12 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace LessonThree
+namespace LessonFour
 {
     public class BigBadWolf
     {
-        public string name;
+        string name;
+
         public BigBadWolf(string name)
         {
             this.name = name;
@@ -22,4 +23,3 @@ namespace LessonThree
         }
     }
 }
-
