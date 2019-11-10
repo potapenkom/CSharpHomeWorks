@@ -12,12 +12,7 @@ namespace LessonFour
             wolf("Grey Wolf").GetInfo();
             BigBadWolf newWolf = new BigBadWolf("Grey");
             MessageSender publisher = new MessageSender();
-            WolfMessage eventDelegate;
-            eventDelegate = delegate()
-            {
-                Console.WriteLine("Wolf has a voice");
-            };
-            publisher.EventMessage += eventDelegate;
+            publisher.EventMessage += () => Console.WriteLine("Wolf has a voice");
             publisher.InvokeEvent();
         } 
     }
