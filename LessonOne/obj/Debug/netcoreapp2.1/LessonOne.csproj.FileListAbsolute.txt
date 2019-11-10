@@ -1,0 +1,11 @@
+C:\Projects\CSarpHomeWorks\LessonOne\bin\Debug\netcoreapp2.1\LessonOne.deps.json
+C:\Projects\CSarpHomeWorks\LessonOne\bin\Debug\netcoreapp2.1\LessonOne.runtimeconfig.json
+C:\Projects\CSarpHomeWorks\LessonOne\bin\Debug\netcoreapp2.1\LessonOne.runtimeconfig.dev.json
+C:\Projects\CSarpHomeWorks\LessonOne\bin\Debug\netcoreapp2.1\LessonOne.dll
+C:\Projects\CSarpHomeWorks\LessonOne\bin\Debug\netcoreapp2.1\LessonOne.pdb
+C:\Projects\CSarpHomeWorks\LessonOne\obj\Debug\netcoreapp2.1\LessonOne.csprojAssemblyReference.cache
+C:\Projects\CSarpHomeWorks\LessonOne\obj\Debug\netcoreapp2.1\LessonOne.csproj.CoreCompileInputs.cache
+C:\Projects\CSarpHomeWorks\LessonOne\obj\Debug\netcoreapp2.1\LessonOne.AssemblyInfoInputs.cache
+C:\Projects\CSarpHomeWorks\LessonOne\obj\Debug\netcoreapp2.1\LessonOne.AssemblyInfo.cs
+C:\Projects\CSarpHomeWorks\LessonOne\obj\Debug\netcoreapp2.1\LessonOne.dll
+C:\Projects\CSarpHomeWorks\LessonOne\obj\Debug\netcoreapp2.1\LessonOne.pdb
