@@ -12,7 +12,8 @@ namespace LessonFour
             wolf("Grey Wolf").GetInfo();
             BigBadWolf newWolf = new BigBadWolf("Grey");
             MessageSender publisher = new MessageSender();
-            WolfMessage eventDelegate = new WolfMessage(newWolf.Woof);
+            WolfMessage eventDelegate;
+            eventDelegate = newWolf.Woof;
             publisher.EventMessage += eventDelegate;
             publisher.InvokeEvent();
         } 
