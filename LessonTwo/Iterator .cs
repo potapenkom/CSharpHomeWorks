@@ -1,16 +1,17 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Collections;
 using System.Text;
 
 namespace LessonTwo
 {
-   public class Iterator
+   public class Iterator : IEnumerator
     {
         List<string> names;
 
         public Iterator(UserCollection col)
         {
-            names = col.names;
+            names = col.UserNames;
         }
         public void AddItem(string item)
         {

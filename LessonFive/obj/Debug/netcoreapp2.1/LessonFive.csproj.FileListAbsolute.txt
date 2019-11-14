@@ -1,0 +1,11 @@
+C:\Projects\CSharpHomeWorks\LessonFive\bin\Debug\netcoreapp2.1\LessonFive.deps.json
+C:\Projects\CSharpHomeWorks\LessonFive\bin\Debug\netcoreapp2.1\LessonFive.runtimeconfig.json
+C:\Projects\CSharpHomeWorks\LessonFive\bin\Debug\netcoreapp2.1\LessonFive.runtimeconfig.dev.json
+C:\Projects\CSharpHomeWorks\LessonFive\bin\Debug\netcoreapp2.1\LessonFive.dll
+C:\Projects\CSharpHomeWorks\LessonFive\bin\Debug\netcoreapp2.1\LessonFive.pdb
+C:\Projects\CSharpHomeWorks\LessonFive\obj\Debug\netcoreapp2.1\LessonFive.csprojAssemblyReference.cache
+C:\Projects\CSharpHomeWorks\LessonFive\obj\Debug\netcoreapp2.1\LessonFive.csproj.CoreCompileInputs.cache
+C:\Projects\CSharpHomeWorks\LessonFive\obj\Debug\netcoreapp2.1\LessonFive.AssemblyInfoInputs.cache
+C:\Projects\CSharpHomeWorks\LessonFive\obj\Debug\netcoreapp2.1\LessonFive.AssemblyInfo.cs
+C:\Projects\CSharpHomeWorks\LessonFive\obj\Debug\netcoreapp2.1\LessonFive.dll
+C:\Projects\CSharpHomeWorks\LessonFive\obj\Debug\netcoreapp2.1\LessonFive.pdb

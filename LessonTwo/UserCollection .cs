@@ -7,7 +7,7 @@ namespace LessonTwo
 {
    public class UserCollection : IEnumerable
     {
-        List<string> names = new List<string>();
+      public List<string> UserNames = new List<string>();
         public IEnumerator GetEnumerator()
         {
             return new Iterator(this);
