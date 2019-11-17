@@ -8,7 +8,7 @@ namespace LessonFive
     {
         public static void StaticMethod(Action<string> printActionDel)
         {
-            printActionDel("Hello");
+            printActionDel("Hello from not static class!");
         }
     }
 }

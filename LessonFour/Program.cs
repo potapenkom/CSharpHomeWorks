@@ -10,7 +10,6 @@ namespace LessonFour
             CreateWolf<BigBadWolf, string> wolf;
             wolf = name => new BigBadWolf(name);
             wolf("Grey Wolf").GetInfo();
-            BigBadWolf newWolf = new BigBadWolf("Grey");
             MessageSender publisher = new MessageSender();
             publisher.EventMessage += () => Console.WriteLine("Wolf has a voice");
             publisher.InvokeEvent();

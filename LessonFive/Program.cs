@@ -4,16 +4,18 @@ namespace LessonFive
 {
     class Program
     {
-        public delegate void MyDelegate(string text);
         static void Main(string[] args)
         {
-            Action<string> printActionDel = str => Console.WriteLine(str);
-            NonStaticClass.StaticMethod(printActionDel);
-            MyDelegate myDelegate = delegate (string mes)
-            {
-                Console.WriteLine(mes);
-            };
-           // StaticClass.CallDelegate(myDelegate("string"));
+            //Action<string> printActionDel = str => Console.WriteLine(str);
+            //NonStaticClass.StaticMethod(printActionDel);
+            //MyDelegate myDelegate = str => Console.WriteLine(str);
+            //StaticClass.CallDelegate(myDelegate);
+            //Human newHuman = new Human();
+            //Console.WriteLine(newHuman.MostImportantBodyPart);
+            //Console.WriteLine();
+            //newHuman.Evolve();
+            //Console.WriteLine(newHuman.MostImportantBodyPart);
+            SelectedPersons.ShowExtensionMethodSyntax();
         }   
     }
 }
