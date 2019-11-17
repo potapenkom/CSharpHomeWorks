@@ -1,0 +1,14 @@
+C:\Projects\CSharpHomeWorks\LessonSix\bin\Debug\netcoreapp2.1\LessonSix.deps.json
+C:\Projects\CSharpHomeWorks\LessonSix\bin\Debug\netcoreapp2.1\LessonSix.runtimeconfig.json
+C:\Projects\CSharpHomeWorks\LessonSix\bin\Debug\netcoreapp2.1\LessonSix.runtimeconfig.dev.json
+C:\Projects\CSharpHomeWorks\LessonSix\bin\Debug\netcoreapp2.1\LessonSix.dll
+C:\Projects\CSharpHomeWorks\LessonSix\bin\Debug\netcoreapp2.1\LessonSix.pdb
+C:\Projects\CSharpHomeWorks\LessonSix\bin\Debug\netcoreapp2.1\LessonFive.dll
+C:\Projects\CSharpHomeWorks\LessonSix\bin\Debug\netcoreapp2.1\LessonFive.pdb
+C:\Projects\CSharpHomeWorks\LessonSix\obj\Debug\netcoreapp2.1\LessonSix.csprojAssemblyReference.cache
+C:\Projects\CSharpHomeWorks\LessonSix\obj\Debug\netcoreapp2.1\LessonSix.csproj.CoreCompileInputs.cache
+C:\Projects\CSharpHomeWorks\LessonSix\obj\Debug\netcoreapp2.1\LessonSix.AssemblyInfoInputs.cache
+C:\Projects\CSharpHomeWorks\LessonSix\obj\Debug\netcoreapp2.1\LessonSix.AssemblyInfo.cs
+C:\Projects\CSharpHomeWorks\LessonSix\obj\Debug\netcoreapp2.1\LessonSix.csproj.CopyComplete
+C:\Projects\CSharpHomeWorks\LessonSix\obj\Debug\netcoreapp2.1\LessonSix.dll
+C:\Projects\CSharpHomeWorks\LessonSix\obj\Debug\netcoreapp2.1\LessonSix.pdb
