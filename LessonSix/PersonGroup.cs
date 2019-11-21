@@ -11,25 +11,23 @@ namespace LessonSix
         public static void ShowGroup()
         {
             var characters = PersonsService.GetPersons();
-            var persons = from character in characters
-                          where character.Age > 100
-                          group character by character.Gender into ageGroups
-                          select new
-                          {
-                              count = ageGroups.Count(),
-                              key = ageGroups.Key
-                          };
 
-            foreach (var person in persons)
-                       Console.WriteLine($"Count: {person.count}, \tKey: {person.key}");
-            var groups = from person in persons
-                         select new
-                         {
-                            groupsItem = person.count,
-                            groupsKey = person.key
-                         };
+            var groups = from character in characters
+                         where character.Age > 100
+                         group character by character.Gender into g
+                               select new
+                               {
+                                   Name = g.Key,
+                                   Count = g.Count(),
+                                   Person = from p in g select p
+                               };
             foreach (var group in groups)
-                Console.WriteLine($"Count: {group.groupsItem}, \tKey: {group.groupsKey}");
+            {
+                Console.WriteLine($"{group.Name} : {group.Count}");
+                foreach (var person in group.Person)
+                    Console.WriteLine(person.Gender);
+                Console.WriteLine();
+            }
         }
     }
 }

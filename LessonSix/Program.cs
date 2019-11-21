@@ -7,7 +7,7 @@ namespace LessonSix
     {
         static void Main(string[] args)
         {
-          //  PersonDescription.ShowProperty();
+            PersonDescription.ShowProperty();
             PersonGroup.ShowGroup();
         }
     }
