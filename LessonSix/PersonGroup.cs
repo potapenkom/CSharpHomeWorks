@@ -11,16 +11,19 @@ namespace LessonSix
         public static void ShowGroup()
         {
             var characters = PersonsService.GetPersons();
-            var persons = characters.Where(x => x.Age > 100)
-                                    .GroupBy(x => x.Gender);
-                                   // .GroupBy(group => { group.Key, group.Count()});
-           
+            var persons = characters.Where(x => x.Age > 10)
+                                    .GroupBy(x => x.Gender)
+                                    .GroupBy(group =>  group.Count())
+                                    .Select(person => new {
+                                         firstName = person.Key,
+                                         lastName = person.Key,
+                                         age = person.Key,
+                                         gender = person.Key
+                                     });
             foreach (var person in persons)
-            {
-                Console.WriteLine($"{person.Key} : {person.Count()}");
-               
-                Console.WriteLine();
-            }
+            foreach (var group in person)
+            foreach(var g in group)
+                    Console.WriteLine( g.firstName, g.lastName, g.gender, g.age);
         }
     }
 }

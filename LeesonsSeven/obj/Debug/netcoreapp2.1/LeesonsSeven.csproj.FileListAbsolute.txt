@@ -1,0 +1,12 @@
+C:\Projects\CSharpHomeWorks\LeesonsSeven\bin\Debug\netcoreapp2.1\LeesonsSeven.dll.config
+C:\Projects\CSharpHomeWorks\LeesonsSeven\bin\Debug\netcoreapp2.1\LeesonsSeven.deps.json
+C:\Projects\CSharpHomeWorks\LeesonsSeven\bin\Debug\netcoreapp2.1\LeesonsSeven.runtimeconfig.json
+C:\Projects\CSharpHomeWorks\LeesonsSeven\bin\Debug\netcoreapp2.1\LeesonsSeven.runtimeconfig.dev.json
+C:\Projects\CSharpHomeWorks\LeesonsSeven\bin\Debug\netcoreapp2.1\LeesonsSeven.dll
+C:\Projects\CSharpHomeWorks\LeesonsSeven\obj\Debug\netcoreapp2.1\LeesonsSeven.csprojAssemblyReference.cache
+C:\Projects\CSharpHomeWorks\LeesonsSeven\obj\Debug\netcoreapp2.1\LeesonsSeven.csproj.CoreCompileInputs.cache
+C:\Projects\CSharpHomeWorks\LeesonsSeven\obj\Debug\netcoreapp2.1\LeesonsSeven.AssemblyInfoInputs.cache
+C:\Projects\CSharpHomeWorks\LeesonsSeven\obj\Debug\netcoreapp2.1\LeesonsSeven.AssemblyInfo.cs
+C:\Projects\CSharpHomeWorks\LeesonsSeven\bin\Debug\netcoreapp2.1\LeesonsSeven.pdb
+C:\Projects\CSharpHomeWorks\LeesonsSeven\obj\Debug\netcoreapp2.1\LeesonsSeven.dll
+C:\Projects\CSharpHomeWorks\LeesonsSeven\obj\Debug\netcoreapp2.1\LeesonsSeven.pdb
