@@ -11,16 +11,9 @@ namespace LessonSix
         public static void ShowProperty()
         {
             var characters = PersonsService.GetPersons();
-            var PersonDescription = from character in characters
-                                    select new
-                                    {
-                                        firstName = character.FirstName,
-                                        lastName= character.LastName,
-                                        age = character.Age,
-                                        gender = character.Gender
-                                    };
-            foreach (var t in PersonDescription)
-                Console.WriteLine($"\t{t.firstName}, \t{t.lastName}, \t{t.age}, \t{t.gender}");
+            var PersonDescription = characters.Select(x => new { x.FirstName,x.LastName, x.Age, x.Gender });
+            foreach (var person in PersonDescription)
+                Console.WriteLine(person.FirstName, person.LastName, person.Age, person.Gender);
         }
     }
 }

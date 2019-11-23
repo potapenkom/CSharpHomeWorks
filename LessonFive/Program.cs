@@ -9,8 +9,7 @@ namespace LessonFive
             Action<string> printActionDel = str => Console.WriteLine(str);
             NonStaticClass.StaticMethod(printActionDel);
             Console.WriteLine("End first task");
-            MyDelegate myDelegate = str => Console.WriteLine(str);
-            StaticClass.CallDelegate(myDelegate);
+            StaticClass.CallDelegate(() => Console.WriteLine("Hello from static class."));
             Console.WriteLine("End second task");
             Human newHuman = new Human();
             Console.WriteLine(newHuman.MostImportantBodyPart);

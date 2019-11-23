@@ -4,13 +4,13 @@ using System.Text;
 
 namespace LessonFive
 {
-    delegate void MyDelegate(string str);
+    delegate void MyDelegate();
    
     static class StaticClass
     {
         public static void CallDelegate(MyDelegate myDelegate)
         {
-             myDelegate("Hello from static class.");
+             myDelegate();
         }
     }
 }
