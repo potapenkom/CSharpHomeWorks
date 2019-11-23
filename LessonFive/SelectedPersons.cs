@@ -11,12 +11,7 @@ namespace LessonFive
         {
             var users = PersonsService.GetPersons();
 
-            var adults = from user in users
-                         where user.Age > 30
-                         orderby user.Age descending
-                         orderby user.FirstName
-                         select user;
-
+            var adults = users.Where(n => n.Age > 30).OrderByDescending(x => x.Age).ThenBy(x => x.FirstName); ;
             foreach (var adult in adults)
                 Console.WriteLine(adult.ToString());
         }

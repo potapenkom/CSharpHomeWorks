@@ -6,9 +6,9 @@ namespace LessonFive
 {
    public static class HumanExtension
     {
-       public static BodyParts Evolve(this Human Ext)
+       public static void Evolve(this Human Ext)
         {
-            return Ext.MostImportantBodyPart = BodyParts.Arms;
+            Ext.MostImportantBodyPart = BodyParts.Arms;
         }
     }
 }
