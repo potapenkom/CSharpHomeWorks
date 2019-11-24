@@ -1,0 +1,14 @@
+C:\Projects\CSharpHomeWorks\LessonEight\bin\Debug\LessonEight.exe.config
+C:\Projects\CSharpHomeWorks\LessonEight\bin\Debug\LessonEight.exe
+C:\Projects\CSharpHomeWorks\LessonEight\bin\Debug\LessonEight.pdb
+C:\Projects\CSharpHomeWorks\LessonEight\bin\Debug\EntityFramework.dll
+C:\Projects\CSharpHomeWorks\LessonEight\bin\Debug\EntityFramework.SqlServer.dll
+C:\Projects\CSharpHomeWorks\LessonEight\bin\Debug\EntityFramework.xml
+C:\Projects\CSharpHomeWorks\LessonEight\bin\Debug\EntityFramework.SqlServer.xml
+C:\Projects\CSharpHomeWorks\LessonEight\obj\Debug\LessonEight.csprojAssemblyReference.cache
+C:\Projects\CSharpHomeWorks\LessonEight\obj\Debug\LessonEight.csproj.CoreCompileInputs.cache
+C:\Projects\CSharpHomeWorks\LessonEight\obj\Debug\LessonEight.csproj.CopyComplete
+C:\Projects\CSharpHomeWorks\LessonEight\obj\Debug\LessonEight.exe
+C:\Projects\CSharpHomeWorks\LessonEight\obj\Debug\LessonEight.pdb
+C:\Projects\CSharpHomeWorks\LessonEight\obj\Debug\LessonEight.Migrations.AddMigration.resources
+C:\Projects\CSharpHomeWorks\LessonEight\obj\Debug\LessonEight.csproj.GenerateResource.cache
