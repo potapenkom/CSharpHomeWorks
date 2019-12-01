@@ -1,0 +1,11 @@
+C:\Projects\CSharpHomeWorks\LessonTenth\bin\Debug\netcoreapp3.0\LessonTenth.exe
+C:\Projects\CSharpHomeWorks\LessonTenth\bin\Debug\netcoreapp3.0\LessonTenth.deps.json
+C:\Projects\CSharpHomeWorks\LessonTenth\bin\Debug\netcoreapp3.0\LessonTenth.runtimeconfig.json
+C:\Projects\CSharpHomeWorks\LessonTenth\bin\Debug\netcoreapp3.0\LessonTenth.runtimeconfig.dev.json
+C:\Projects\CSharpHomeWorks\LessonTenth\bin\Debug\netcoreapp3.0\LessonTenth.dll
+C:\Projects\CSharpHomeWorks\LessonTenth\bin\Debug\netcoreapp3.0\LessonTenth.pdb
+C:\Projects\CSharpHomeWorks\LessonTenth\obj\Debug\netcoreapp3.0\LessonTenth.csprojAssemblyReference.cache
+C:\Projects\CSharpHomeWorks\LessonTenth\obj\Debug\netcoreapp3.0\LessonTenth.AssemblyInfoInputs.cache
+C:\Projects\CSharpHomeWorks\LessonTenth\obj\Debug\netcoreapp3.0\LessonTenth.AssemblyInfo.cs
+C:\Projects\CSharpHomeWorks\LessonTenth\obj\Debug\netcoreapp3.0\LessonTenth.dll
+C:\Projects\CSharpHomeWorks\LessonTenth\obj\Debug\netcoreapp3.0\LessonTenth.pdb

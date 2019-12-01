@@ -1,0 +1,12 @@
+C:\Projects\CSharpHomeWorks\LessonsNinth\bin\Debug\LessonsNinth.exe.config
+C:\Projects\CSharpHomeWorks\LessonsNinth\bin\Debug\LessonsNinth.exe
+C:\Projects\CSharpHomeWorks\LessonsNinth\bin\Debug\LessonsNinth.pdb
+C:\Projects\CSharpHomeWorks\LessonsNinth\bin\Debug\LessonEight.exe
+C:\Projects\CSharpHomeWorks\LessonsNinth\bin\Debug\EntityFramework.dll
+C:\Projects\CSharpHomeWorks\LessonsNinth\bin\Debug\LessonEight.pdb
+C:\Projects\CSharpHomeWorks\LessonsNinth\bin\Debug\LessonEight.exe.config
+C:\Projects\CSharpHomeWorks\LessonsNinth\bin\Debug\EntityFramework.xml
+C:\Projects\CSharpHomeWorks\LessonsNinth\obj\Debug\LessonsNinth.csprojAssemblyReference.cache
+C:\Projects\CSharpHomeWorks\LessonsNinth\obj\Debug\LessonsNinth.csproj.CopyComplete
+C:\Projects\CSharpHomeWorks\LessonsNinth\obj\Debug\LessonsNinth.exe
+C:\Projects\CSharpHomeWorks\LessonsNinth\obj\Debug\LessonsNinth.pdb
