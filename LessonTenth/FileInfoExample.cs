@@ -11,7 +11,6 @@ namespace LessonTenth
         {
             string path = @"C:\Project\MySolution\HomeVideoCourse\ShowFileInfo.txt";
             var fileInfo = new FileInfo(path);
-            //string[] pathArray = Directory.GetFiles(path);
             try
             {
                 if (!fileInfo.Exists)

@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Reflection;
 
 namespace LessonTenth
 {
@@ -6,15 +7,9 @@ namespace LessonTenth
     {
         static void Main(string[] args)
         {
-            try
-            {
-                FileInfoExample.ShowFileInfo();
-            }
-            catch(Exception ex)
-            {
-                Console.WriteLine(ex.Message);
-            }
-          
+            FileInfoExample.ShowFileInfo();
+            GetAttribute<UinfoClass>.ShowMethodsAttributes(new UinfoClass());
         }
     }
 }
+
