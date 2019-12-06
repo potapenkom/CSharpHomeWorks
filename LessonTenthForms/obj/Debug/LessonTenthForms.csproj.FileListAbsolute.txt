@@ -1,0 +1,9 @@
+C:\Projects\CSharpHomeWorks\LessonTenthForms\bin\Debug\LessonTenthForms.exe.config
+C:\Projects\CSharpHomeWorks\LessonTenthForms\bin\Debug\LessonTenthForms.exe
+C:\Projects\CSharpHomeWorks\LessonTenthForms\bin\Debug\LessonTenthForms.pdb
+C:\Projects\CSharpHomeWorks\LessonTenthForms\obj\Debug\LessonTenthForms.csprojAssemblyReference.cache
+C:\Projects\CSharpHomeWorks\LessonTenthForms\obj\Debug\LessonTenthForms.Form1.resources
+C:\Projects\CSharpHomeWorks\LessonTenthForms\obj\Debug\LessonTenthForms.Properties.Resources.resources
+C:\Projects\CSharpHomeWorks\LessonTenthForms\obj\Debug\LessonTenthForms.csproj.GenerateResource.cache
+C:\Projects\CSharpHomeWorks\LessonTenthForms\obj\Debug\LessonTenthForms.exe
+C:\Projects\CSharpHomeWorks\LessonTenthForms\obj\Debug\LessonTenthForms.pdb
