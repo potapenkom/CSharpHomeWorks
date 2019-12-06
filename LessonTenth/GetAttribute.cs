@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Reflection;
 using System.Text;
 
 namespace LessonTenth
@@ -8,7 +9,7 @@ namespace LessonTenth
     {
         public static void ShowMethodsAttributes(T instance)
         {
-            var methods = instance.GetType().GetMethods();
+            var methods = instance.GetType().GetMethods(BindingFlags.Public | BindingFlags.Instance | BindingFlags.NonPublic);
 
             foreach (var method in methods)
                 foreach (var attributeData in method.CustomAttributes)

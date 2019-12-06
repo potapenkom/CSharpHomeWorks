@@ -7,7 +7,7 @@ namespace LessonTenth
     {
         static void Main(string[] args)
         {
-            FileInfoExample.ShowFileInfo();
+          //  FileInfoExample.ShowFileInfo();
             GetAttribute<UinfoClass>.ShowMethodsAttributes(new UinfoClass());
         }
     }

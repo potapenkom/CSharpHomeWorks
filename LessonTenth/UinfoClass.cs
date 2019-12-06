@@ -9,7 +9,7 @@ namespace LessonTenth
         [UInfo("This is public method", "This is some Data")]
         public void GetIngo(string str1, string str2)
         {
-             string Data = str1;
+            string Data = str1;
             string Desc = str2;
             Display();
         }
