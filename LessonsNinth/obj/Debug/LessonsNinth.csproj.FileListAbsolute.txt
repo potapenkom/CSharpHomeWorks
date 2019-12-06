@@ -10,3 +10,5 @@ C:\Projects\CSharpHomeWorks\LessonsNinth\obj\Debug\LessonsNinth.csprojAssemblyRe
 C:\Projects\CSharpHomeWorks\LessonsNinth\obj\Debug\LessonsNinth.csproj.CopyComplete
 C:\Projects\CSharpHomeWorks\LessonsNinth\obj\Debug\LessonsNinth.exe
 C:\Projects\CSharpHomeWorks\LessonsNinth\obj\Debug\LessonsNinth.pdb
+C:\Projects\CSharpHomeWorks\LessonsNinth\obj\Debug\LessonsNinth.csproj.GenerateResource.cache
+C:\Projects\CSharpHomeWorks\LessonsNinth\obj\Debug\LessonsNinth.FormToDb.resources
