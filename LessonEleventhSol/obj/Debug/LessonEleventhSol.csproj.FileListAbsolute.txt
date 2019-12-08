@@ -1,0 +1,6 @@
+C:\Projects\CSharpHomeWorks\LessonEleventhSol\bin\Debug\LessonEleventhSol.exe.config
+C:\Projects\CSharpHomeWorks\LessonEleventhSol\bin\Debug\LessonEleventhSol.exe
+C:\Projects\CSharpHomeWorks\LessonEleventhSol\bin\Debug\LessonEleventhSol.pdb
+C:\Projects\CSharpHomeWorks\LessonEleventhSol\obj\Debug\LessonEleventhSol.csprojAssemblyReference.cache
+C:\Projects\CSharpHomeWorks\LessonEleventhSol\obj\Debug\LessonEleventhSol.exe
+C:\Projects\CSharpHomeWorks\LessonEleventhSol\obj\Debug\LessonEleventhSol.pdb
