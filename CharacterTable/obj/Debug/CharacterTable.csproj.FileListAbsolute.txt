@@ -1,0 +1,16 @@
+C:\Projects\CSharpHomeWorks\CharacterTable\bin\Debug\CharacterTable.exe.config
+C:\Projects\CSharpHomeWorks\CharacterTable\bin\Debug\CharacterTable.exe
+C:\Projects\CSharpHomeWorks\CharacterTable\bin\Debug\CharacterTable.pdb
+C:\Projects\CSharpHomeWorks\CharacterTable\bin\Debug\EntityFramework.dll
+C:\Projects\CSharpHomeWorks\CharacterTable\bin\Debug\EntityFramework.SqlServer.dll
+C:\Projects\CSharpHomeWorks\CharacterTable\bin\Debug\EntityFramework.xml
+C:\Projects\CSharpHomeWorks\CharacterTable\bin\Debug\EntityFramework.SqlServer.xml
+C:\Projects\CSharpHomeWorks\CharacterTable\obj\Debug\CharacterTable.csprojAssemblyReference.cache
+C:\Projects\CSharpHomeWorks\CharacterTable\obj\Debug\CharacterTable.Form1.resources
+C:\Projects\CSharpHomeWorks\CharacterTable\obj\Debug\CharacterTable.Properties.Resources.resources
+C:\Projects\CSharpHomeWorks\CharacterTable\obj\Debug\CharacterTable.csproj.GenerateResource.cache
+C:\Projects\CSharpHomeWorks\CharacterTable\obj\Debug\CharacterTable.csproj.CopyComplete
+C:\Projects\CSharpHomeWorks\CharacterTable\obj\Debug\CharacterTable.exe
+C:\Projects\CSharpHomeWorks\CharacterTable\obj\Debug\CharacterTable.pdb
+C:\Projects\CSharpHomeWorks\CharacterTable\bin\Debug\Newtonsoft.Json.dll
+C:\Projects\CSharpHomeWorks\CharacterTable\bin\Debug\Newtonsoft.Json.xml

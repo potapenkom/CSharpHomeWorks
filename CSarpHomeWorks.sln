@@ -23,6 +23,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LessonTenth", "LessonTenth\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LessonTenthForms", "LessonTenthForms\LessonTenthForms.csproj", "{CE287D80-F7BD-4E34-BDF2-4EF5E5FC601E}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "LessonEleventh", "LessonEleventh", "{F56BEB3C-F6C7-4CD3-924E-CAB949769A68}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CharacterTable", "CharacterTable\CharacterTable.csproj", "{E2BC7C26-BB9B-41CB-99D0-EE981B8CB312}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,9 +73,16 @@ Global
 		{CE287D80-F7BD-4E34-BDF2-4EF5E5FC601E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CE287D80-F7BD-4E34-BDF2-4EF5E5FC601E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CE287D80-F7BD-4E34-BDF2-4EF5E5FC601E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E2BC7C26-BB9B-41CB-99D0-EE981B8CB312}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2BC7C26-BB9B-41CB-99D0-EE981B8CB312}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2BC7C26-BB9B-41CB-99D0-EE981B8CB312}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2BC7C26-BB9B-41CB-99D0-EE981B8CB312}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{E2BC7C26-BB9B-41CB-99D0-EE981B8CB312} = {F56BEB3C-F6C7-4CD3-924E-CAB949769A68}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {5A1BF191-9D28-4E9B-9327-461B0DF1CC94}
