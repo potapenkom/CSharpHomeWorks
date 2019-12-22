@@ -96,5 +96,11 @@ namespace CharacterTable
                 stream.Close();
             }
         }
+
+        private void RemoveButton_Click(object sender, EventArgs e)
+        {
+           int rowIndex = dataGridView1.CurrentCell.RowIndex;
+            dataGridView1.Rows.RemoveAt(rowIndex);
+        }
     }
 }
